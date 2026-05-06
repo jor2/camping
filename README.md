@@ -15,8 +15,8 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 | # | Nights | Campsite | Cost |
 |---|--------|----------|------|
 | 1 | Mon + Tue (2) | **Thelmount Camping**, Mountcharles | €60 (€30/night) |
-| 2 | Wed (1) | **Sliabh Liag Camping**, Teelin — *Booking #6787, paid* | €32 |
-| 3 | Thu + Fri (2) | **Strandhill Caravan Park**, Sligo — *Booking #10503053, paid* | €60 (€30/night) |
+| 2 | Wed (1) | **Sliabh Liag Camping**, Teelin, paid* | €32 |
+| 3 | Thu + Fri (2) | **Strandhill Caravan Park**, Sligo, paid* | €60 (€30/night) |
 
 **Total camping: €152** for 5 nights (~€15 per person per night). All booked and paid 🎉
 
