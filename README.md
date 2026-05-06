@@ -55,7 +55,7 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Wed 8 July — Donegal → Slieve League
 
-> ⚠️ **Tide warning:** Maghera Caves only work at low tide. **Check Tides Near Me before this morning.** If low tide is in the morning, leave Thelmount by 8am to catch the caves. If low tide is afternoon, the 10am start is fine.
+> ⚠️ **Tide warning — IMPORTANT:** Estimated low tide at Maghera on Wed 8 July is around **9-10am** (and again ~9-10pm). **Confirm exact times the week before** at [tide-forecast.com](https://www.tide-forecast.com/locations/Maghera-Strand-Ireland/tides/latest) or Tides Near Me app. Aim to arrive ~2 hrs before low tide and leave within 1-2 hrs after — going in on a rising tide is dangerous.
 >
 > ⚠️ **Slieve League shuttle:** Last shuttle down from Bunglass viewpoint is ~6:30pm. Either walk up (~1 hr) or take the shuttle up by 5pm latest.
 
@@ -64,12 +64,13 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 | Time | Plan |
 |---|---|
-| 10:00 | Pack up Thelmount, drive west |
-| 11:30 | Lunch at [**Killybegs Seafood Shack**](https://www.google.com/maps/search/?api=1&query=Killybegs+Seafood+Shack) — fishing port chipper, 4.7★, the seafood box is the move |
-| 13:30 | [**Maghera Beach & Caves**](https://www.google.com/maps/search/?api=1&query=Maghera+Beach+Caves+Ardara) — *check tide times, low tide essential* |
-| 16:00 | Check in at [**Sliabh Liag Camping**](https://www.google.com/maps/search/?api=1&query=Sliabh+Liag+Camping+Teelin+Donegal), Teelin |
-| 18:00 | Hike to [**Slieve League viewpoint**](https://www.google.com/maps/search/?api=1&query=Slieve+League+Cliffs) — empty when day-trippers leave |
-| 20:30 | Walk to [**Rusty Mackerel pub**](https://www.google.com/maps/search/?api=1&query=Rusty+Mackerel+Teelin) for dinner + pints (5 mins on foot) |
+| 07:30 | Pack up Thelmount, quick breakfast, drive west (Maghera ~1.5 hrs) |
+| 09:30 | [**Maghera Beach & Caves**](https://www.google.com/maps/search/?api=1&query=Maghera+Beach+Caves+Ardara) — caves explored at low tide, walk the beach |
+| 12:30 | Late lunch at [**Killybegs Seafood Shack**](https://www.google.com/maps/search/?api=1&query=Killybegs+Seafood+Shack) — fishing port chipper, 4.7★, the seafood box is the move |
+| 14:30 | Drive on to Teelin (~30 mins) |
+| 15:00 | Check in at [**Sliabh Liag Camping**](https://www.google.com/maps/search/?api=1&query=Sliabh+Liag+Camping+Teelin+Donegal), Teelin |
+| 17:00 | Hike to [**Slieve League viewpoint**](https://www.google.com/maps/search/?api=1&query=Slieve+League+Cliffs) — empty when day-trippers leave |
+| 20:00 | Walk to [**Rusty Mackerel pub**](https://www.google.com/maps/search/?api=1&query=Rusty+Mackerel+Teelin) for dinner + pints (5 mins on foot) |
 
 ### Thu 9 July — The big day: Slieve League → Sligo
 
