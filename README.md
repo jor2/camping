@@ -59,7 +59,7 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 >
 > ⚠️ **Slieve League shuttle:** Last shuttle down from Bunglass viewpoint is ~6:30pm. Either walk up (~1 hr) or take the shuttle up by 5pm latest.
 
-![Maghera Beach and caves](https://ardara.ie/wp-content/uploads/Maghera-4.jpg)
+![Maghera Beach and caves](https://goodcraic.de/wp-content/uploads/2024/01/Maghera_Beach.jpg)
 *Maghera Strand near Ardara — white-sand beach with sea caves carved into the cliffs (only accessible at low tide).*
 
 | Time | Plan |
