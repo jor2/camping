@@ -71,7 +71,6 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ## Practical bits
 
-- 🚗 **Driving:** Jordan drinking, gf driving in the evenings
 - 🌊 **Tides for Wednesday:** check Tides Near Me app — Maghera Caves only work at low tide
 - 💶 **Cash:** bring some — Maghera Caves parking is cash only (€3-4)
 - 🌧️ **Wet weather plan:** Donegal Town wandering, Marble Arch Caves in Fermanagh, or pubs (always)
