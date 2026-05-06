@@ -55,13 +55,17 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Wed 8 July — Donegal → Slieve League
 
+> ⚠️ **Tide warning:** Maghera Caves only work at low tide. **Check Tides Near Me before this morning.** If low tide is in the morning, leave Thelmount by 8am to catch the caves. If low tide is afternoon, the 10am start is fine.
+>
+> ⚠️ **Slieve League shuttle:** Last shuttle down from Bunglass viewpoint is ~6:30pm. Either walk up (~1 hr) or take the shuttle up by 5pm latest.
+
 ![Maghera Beach and caves](https://images.ireland.com/media/Images/destinations/experiences/wild-atlantic-way/waw-supporting-images/hidden-gems/9bff24ebe1ff45869e4cb959a650b136.jpg)
 *Maghera Strand near Ardara — white-sand beach with sea caves carved into the cliffs (only accessible at low tide).*
 
 | Time | Plan |
 |---|---|
 | 10:00 | Pack up Thelmount, drive west |
-| 11:30 | Quick stop in [Killybegs](https://www.google.com/maps/search/?api=1&query=Killybegs+Donegal) (fishing port, smoked salmon shops) |
+| 11:30 | Lunch at [**Killybegs Seafood Shack**](https://www.google.com/maps/search/?api=1&query=Killybegs+Seafood+Shack) — fishing port chipper, 4.7★, the seafood box is the move |
 | 13:00 | [**Maghera Beach & Caves**](https://www.google.com/maps/search/?api=1&query=Maghera+Beach+Caves+Ardara) — *check tide times, low tide essential* |
 | 16:00 | Check in at [**Sliabh Liag Camping**](https://www.google.com/maps/search/?api=1&query=Sliabh+Liag+Camping+Teelin+Donegal), Teelin |
 | 18:00 | Hike to [**Slieve League viewpoint**](https://www.google.com/maps/search/?api=1&query=Slieve+League+Cliffs) — empty when day-trippers leave |
@@ -92,6 +96,10 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Fri 10 July — Knocknarea + Mullaghmore
 
+> ⚠️ **Knocknarea parking:** Strandhill Quarry car park is small and fills by 11am on sunny days. If the forecast is good, leave by 9:30am instead of 10:30.
+>
+> ⚠️ **Hargadon's:** Sligo town is packed Friday nights. **Book the table now** (try for 7:30 or 8pm) — walk-in at 9pm won't work.
+
 ![Mullaghmore Head](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/84b6aeb2-adc2-44aa-9c43-87d7a8366e28/header-mullaghmore-head-classiebawn-castle-county-sligo-.jpg)
 *Mullaghmore Head with Classiebawn Castle — dramatic headland and big-wave surf spot.*
 
@@ -109,6 +117,8 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 | 22:00 | Friday seisiún at [**Thomas Connolly's**](https://www.google.com/maps/search/?api=1&query=Thomas+Connollys+Sligo), then wander Castle/Bridge/O'Connell Streets |
 
 ### Sat 11 July — Sligo → Newbridge
+
+> ⚠️ **Traffic:** N4/N5 junction near Longford gets busy with Galway-bound holiday traffic from ~1pm. Either leave by 10am or expect a 30-min delay.
 
 | Time | Plan |
 |---|---|
@@ -168,6 +178,34 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### 🎵 Music heads-up
 South Sligo Summer School (massive trad festival) starts ~12 July, so Sligo will be buzzing on Friday — pubs will be busy, get there early.
+
+---
+
+## Fish & chips shortlist 🐟🍟
+
+The route runs through some of the best chippers and seafood spots in the country — most are right beside the working fishing piers. A few worth detouring for:
+
+**On the way up (Mon)**
+- **[Beachside Fish and Chips](https://www.google.com/maps/search/?api=1&query=Beachside+fish+and+chips+Bundoran)**, Bundoran — proper old-school chipper, opens 4pm, ~€26 for two with drinks. Perfect Monday dinner stop if you don't fancy Donegal Town.
+
+**Donegal Town (Mon/Tue evenings)**
+- **[Olde Castle Seafood Bar](https://www.google.com/maps/search/?api=1&query=Olde+Castle+Seafood+Bar+Donegal+Town)** — already on the plan, brilliant seafood + atmosphere
+- **[Quay West](https://www.google.com/maps/search/?api=1&query=Quay+West+Donegal+Town)** — fancier, book ahead (closed Mon/Tue, so Wed onwards only — not for us)
+
+**Killybegs (Wed lunch — fishing port)** ⭐ This is the spot.
+- **[Killybegs Seafood Shack](https://www.google.com/maps/search/?api=1&query=Killybegs+Seafood+Shack)** — 4.7★, hidden up a side street. The seafood box (fried fish, breaded shrimp, calamari) is the move. Cash-friendly, outdoor seating.
+- **[The Marina Cafe](https://www.google.com/maps/search/?api=1&query=The+Marina+Cafe+Killybegs)** — 4.7★, harbour views, sit-in option
+- **[Ahoy Cafe](https://www.google.com/maps/search/?api=1&query=Ahoy+Cafe+Killybegs)** — 4.7★, great crab sandwich + curved chips
+
+> 💡 **Plan:** swap the "quick stop in Killybegs" on Wednesday for a proper lunch at one of these. The Seafood Shack is a top-3 chipper in the country.
+
+**Strandhill (Thu/Fri evenings)**
+- **[Beach Buns](https://www.google.com/maps/search/?api=1&query=Beach+Buns+Strandhill)** — 4.8★, "best fish and chips in Sligo" according to locals. Weekends only (Fri-Sun), so Friday is your shot.
+- **[Shrimpdog](https://www.google.com/maps/search/?api=1&query=Shrimpdog+Strandhill)** — 4.9★, food truck right on our campsite. Half lobster boxes, shrimp tacos. Open Thu-Mon.
+- **[The Strand Bar](https://www.google.com/maps/search/?api=1&query=Strand+Bar+Strandhill)** — sit-down option, lively local pub right in Strandhill village
+
+**Sligo town**
+- **[Hooked](https://www.google.com/maps/search/?api=1&query=Hooked+Sligo)** — already noted, fish and chips portion is huge
 
 ---
 
