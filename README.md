@@ -26,7 +26,7 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Mon 6 July — Newbridge → Donegal Town
 
-![Fairy Bridges Bundoran](https://www.discoverireland.ie/sites/default/files/styles/scaled_full/public/2020-07/Fairy-Bridges-Bundoran.jpg)
+![Fairy Bridges Bundoran](https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/481903649_1199190731562649_5028462763394861988_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=kPGd4bXbhvAQ7kNvwGWIvLn&_nc_oc=Adql6xh5cd6FsLd7uLZvzBgLRGzwT9emmBWyGaAsGxWAQ-isHRHhMSNIVACjPPtk6W-nlsV2Dux4_kMe9tYwYpFi&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=65W1G15sOVorusrmcCtnow&_nc_ss=7b289&oh=00_Af6cFSOzHTng0H7eWLXFWe1UOswoCC6hqns5twfdW0-wHQ&oe=6A01209F)
 
 - Drive up (~3.5 hrs)
 - Lunch stop: [**Tullan Strand & Fairy Bridges**, Bundoran](https://www.google.com/maps/search/?api=1&query=Tullan+Strand+Fairy+Bridges+Bundoran) — surf beach with sea arches, cliff walk
@@ -35,7 +35,7 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Tue 7 July — Donegal Town day
 
-![Donegal Town harbour](https://www.govisitdonegal.com/uploads/towns/_largeImage/Donegal-Town.jpg)
+![Donegal harbour](https://scontent-dub4-1.xx.fbcdn.net/v/t39.30808-6/480060381_1183341519814237_7542617123581208807_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=13d280&_nc_ohc=fqQlQ6oIpbwQ7kNvwHYRuyH&_nc_oc=AdqNsUtXYZXBbXtMnl7mQ9QdZpwEN-6kCHZQ-MdZaxZVcVb9aWPIwesWcJNNtnTW1WFmVLmuaeXrWcDI6rSRZp2z&_nc_zt=23&_nc_ht=scontent-dub4-1.xx&_nc_gid=tBeYcuBe-NwVB-c79k_Jxw&_nc_ss=7b289&oh=00_Af4FTsbfYF9XIUoQ9zFStkkhSKM5JKMJYVJoi7Tv1mjY2w&oe=6A0149D8)
 
 - Wander [**Donegal Town**](https://www.google.com/maps/search/?api=1&query=Donegal+Town): harbour, [castle](https://www.google.com/maps/search/?api=1&query=Donegal+Castle), [Magee's tweed shop](https://www.google.com/maps/search/?api=1&query=Magee+1866+Donegal+Town)
 - Afternoon walk: [**Ardnamona Woods, Lough Eske**](https://www.google.com/maps/search/?api=1&query=Ardnamona+Woods+Lough+Eske) (2km woodland loop, lakeside)
@@ -44,7 +44,9 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Wed 8 July — Donegal → Slieve League
 
-![Maghera Beach and Caves](https://www.govisitdonegal.com/uploads/beaches/_largeImage/Maghera-Beach.jpg)
+![Maghera Beach](https://ardara.ie/wp-content/uploads/Maghera-4.jpg)
+
+![Slieve League cliffs](https://images.ireland.com/media/Images/destinations/experiences/wild-atlantic-way/waw-supporting-images/hidden-gems/9bff24ebe1ff45869e4cb959a650b136.jpg)
 
 - Pack up, drive west via [Killybegs](https://www.google.com/maps/search/?api=1&query=Killybegs+Donegal) (fishing port, smoked salmon shops)
 - [**Maghera Beach & Caves**](https://www.google.com/maps/search/?api=1&query=Maghera+Beach+Caves+Ardara) *(check tide times — low tide essential)*
@@ -54,9 +56,9 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
 
 ### Thu 9 July — The big day: Slieve League → Sligo
 
-![Slieve League cliffs](https://www.discoverireland.ie/sites/default/files/styles/scaled_full/public/2020-08/slieve-league-donegal.jpg)
+![Silver Strand Malin Beg](https://www.garethmccormack.com/wp-content/uploads/2020/06/DON1465-1.jpg)
 
-![Silver Strand Malin Beg](https://www.govisitdonegal.com/uploads/beaches/_largeImage/Silver-Strand.jpg)
+![Benbulben](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Benbulbenmount.jpg/960px-Benbulbenmount.jpg)
 
 - ⏰ [**Slieve League at sunrise**](https://www.google.com/maps/search/?api=1&query=Slieve+League+Cliffs) (~5am) — empty cliffs, the moment of the trip
 - Breakfast, then drive to [**Silver Strand at Malin Beg**](https://www.google.com/maps/search/?api=1&query=Silver+Strand+Malin+Beg) — 169 steps to a hidden horseshoe beach
@@ -65,17 +67,14 @@ Newbridge → Donegal Town (2 nights) → Slieve League cliffs (1 night) → Sli
   - [**Gleniff Horseshoe**](https://www.google.com/maps/search/?api=1&query=Gleniff+Horseshoe+Sligo) — drive-through valley ringed by cliffs
   - [**Benbulben Forest Walk**](https://www.google.com/maps/search/?api=1&query=Benbulben+Forest+Walk) — easy 5km loop *(skip if running late)*
   - [**Glencar Waterfall**](https://www.google.com/maps/search/?api=1&query=Glencar+Waterfall+Sligo) — Yeats's "Stolen Child" spot
-
-![Benbulben mountain](https://www.discoverireland.ie/sites/default/files/styles/scaled_full/public/2020-07/Benbulben-Sligo.jpg)
-
 - Check in at [**Strandhill Caravan Park**](https://www.google.com/maps/search/?api=1&query=Strandhill+Caravan+Park+Sligo) (in the dunes by the surf beach)
 - Evening: drive into Sligo town for trad at [**McLynn's Bar**](https://www.google.com/maps/search/?api=1&query=McLynns+Bar+Sligo)
 
 ### Fri 10 July — Knocknarea + Mullaghmore
 
-![Mullaghmore Head](https://www.discoverireland.ie/sites/default/files/styles/scaled_full/public/2020-07/Mullaghmore-Sligo.jpg)
+![Mullaghmore Head](https://assets-eu-01.kc-usercontent.com/aa24ba70-9a12-01ae-259b-7ef588a0b2ef/84b6aeb2-adc2-44aa-9c43-87d7a8366e28/header-mullaghmore-head-classiebawn-castle-county-sligo-.jpg)
 
-![Strandhill beach](https://www.discoverireland.ie/sites/default/files/styles/scaled_full/public/2020-07/Strandhill-Beach-Sligo.jpg)
+![Strandhill beach](https://i.ytimg.com/vi/nhoBC91MZ_k/maxresdefault.jpg)
 
 - Morning hike up [**Knocknarea**](https://www.google.com/maps/search/?api=1&query=Knocknarea+Queen+Maeves+cairn) to Queen Maeve's cairn (~1 hr up, panoramic views)
 - Afternoon: [**Mullaghmore Head**](https://www.google.com/maps/search/?api=1&query=Mullaghmore+Head+Sligo) loop drive, swim at the village beach
